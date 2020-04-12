@@ -1,0 +1,14 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "author": "Kai",
+  "scripts": {
+    "build": "vuepress build",
+    "dev": "vuepress dev"
+  },
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}

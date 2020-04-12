@@ -1,0 +1,11 @@
+{
+  "name": "flatwhite",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/codewithkai/flatwhite.git",
+  "author": "Kai",
+  "license": "MIT",
+  "workspaces": [
+    "docs"
+  ]
+}
